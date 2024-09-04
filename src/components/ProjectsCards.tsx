@@ -13,7 +13,7 @@ export const ProjectsCards = () => {
   `;
 
   return (
-    <div className="flex items-center justify-center  max-w-[1200px] mx-auto max-md:w-full">
+    <div className="flex items-center justify-center mx-auto max-md:w-full">
       <CardComponente
         imageSrc={screenshot}
         altText="PomoPal Screenshot"
