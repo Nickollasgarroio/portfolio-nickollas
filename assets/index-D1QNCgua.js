@@ -178,7 +178,7 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
     With a natural sense of leadership, I am always ready for
     work-related travel or relocation, making me a versatile and
     committed professional.
-  `,buttonText:"Checkout My Resume!",onButtonClick:e,textTitle:"HELLO THERE"})})},OS="/portfolio-nickollas/assets/pomopal-screenshot-q6xgRsYc.png",IS=()=>{const e=()=>{};return f.jsx("div",{className:"flex items-center justify-center  max-w-[1200px] mx-auto max-md:w-full",children:f.jsx(uv,{imageSrc:OS,altText:"PomoPal Screenshot",title:"Projects",description:"Made with love, this are my projects",content:`
+  `,buttonText:"Checkout My Resume!",onButtonClick:e,textTitle:"HELLO THERE"})})},OS="/portfolio-nickollas/assets/pomopal-screenshot-q6xgRsYc.png",IS=()=>{const e=()=>{};return f.jsx("div",{className:"flex items-center justify-center mx-auto max-md:w-full",children:f.jsx(uv,{imageSrc:OS,altText:"PomoPal Screenshot",title:"Projects",description:"Made with love, this are my projects",content:`
     <p>Pomodoro-type aplication that uses <strong>ReactJs</strong> and <strong>Typescript</strong> to run a timer that can be divided into "Focus" and "Break" cycles in order to improve productivity.</p>
     <p></p>
 
